@@ -17,7 +17,7 @@ class Rectangle():
     #       "A rectangle with width ____ and height ____"
 
     def __str__(self):
-        return "A rectangle with width" + str(self.w) + "and height" + str(self.h)
+        return "A rectangle with width" + str(self.w) + "and height" + str(self.h) #turing width and heigh to a string to add to string text
 
 
 
