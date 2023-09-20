@@ -7,7 +7,7 @@ class Rectangle():
 
     def __init__(self, initW, initH):
         self.w = initW #this is the width variable
-        self.h = initH
+        self.h = initH #this is the height variable 
 
 
 
